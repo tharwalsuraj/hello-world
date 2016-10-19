@@ -1,5 +1,5 @@
 # hello-world
 this is another repository
-my name is siddhnath gharge 
-my roll no is 125
-i am in bsc CS
+My name is siddhnath gharge 
+My roll no is 125
+I am in bsc CS
